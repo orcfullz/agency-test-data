@@ -1,0 +1,12 @@
+{
+  "title": "The Basics - Networking",
+  "description": "Your app fetched this from a remote endpoint!",
+  "movies": [
+    { "id": "1", "name": "Pete", "releaseYear": "Managing Director" },
+    { "id": "1", "name": "Lishan", "releaseYear": "Managing Director" },
+    { "id": "1", "name": "Charmaine", "releaseYear": "Project Lead" },
+    { "id": "1", "name": "Alistair", "releaseYear": "Project Lead" },
+    { "id": "1", "name": "Jean", "releaseYear": "Business Dev" },
+
+  ]
+}
